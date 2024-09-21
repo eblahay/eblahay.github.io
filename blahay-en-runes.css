@@ -1,0 +1,17 @@
+html
+{
+    background: linear-gradient(#fff, #999);
+    min-height: 100%;
+}
+
+#blahay-en-runes table,
+#blahay-en-runes td
+{
+    border: 1px solid;
+    font-size: x-large;
+}
+
+#blahay-en-runes td
+{
+    text-align: center;
+}
