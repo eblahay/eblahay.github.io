@@ -1,6 +1,6 @@
 html
 {
     min-height: 100%;
-    background: linear-gradient(#88f, #336);
+    background: linear-gradient(to bottom right, #af3, #36b);
     background-attachment: fixed;
 }
