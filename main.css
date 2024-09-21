@@ -1,0 +1,41 @@
+html
+{
+    min-height: 100%;
+    background: linear-gradient(#fff, #999);
+    background-attachment: fixed;
+}
+
+body {
+    margin-top: 50px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #126;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    padding: 8px;
+    color: #eee;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #000848;
+}
+
+.navbar li .active {
+    background-color: #237;
+}
