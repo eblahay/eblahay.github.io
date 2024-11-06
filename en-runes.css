@@ -17,6 +17,9 @@ html
     text-align: center;
 }
 
+#tbl-runes {
+    float: left;
+}
 
 #ftnt-ilx-var
 {
