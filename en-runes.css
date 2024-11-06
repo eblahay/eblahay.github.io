@@ -16,3 +16,14 @@ html
 {
     text-align: center;
 }
+
+
+#ftnt-ilx-var
+{
+    font-size: 1em;
+}
+#ftnt-ilx-var img
+{
+    height: 0.75em;
+    width: auto;
+}
