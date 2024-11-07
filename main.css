@@ -9,7 +9,7 @@ body {
     margin-top: 50px;
 }
 
-.navbar ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -21,21 +21,21 @@ body {
     width: 100%;
 }
 
-.navbar li {
+nav li {
     float: left;
 }
 
-.navbar li a {
+nav li a {
     display: block;
     padding: 8px;
     color: #eee;
     text-decoration: none;
 }
 
-.navbar li a:hover {
+nav li a:hover {
     background-color: #000848;
 }
 
-.navbar li .active {
+nav li .active {
     background-color: #237;
 }
